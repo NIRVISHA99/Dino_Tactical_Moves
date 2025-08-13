@@ -29,6 +29,7 @@ It uses Microsoft Excel for data cleaning, processing, and visualization.
 - Dinosaur_Tactical_Behavior.xlsx — Main dataset & analysis
 - Insights_Summary.pdf — Concise findings for quick review
 
-Author
+Author:
+--
 M A Nirvisha
 📍 Bengaluru, India
